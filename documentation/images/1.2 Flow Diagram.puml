@@ -6,7 +6,7 @@ skinparam rectangle {
     roundCorner<<Concept>> 25
 }
 
-ProductOwner as "Product Owner"
+ProductOwner as "Product Owner (Person)"
 FinalUser as "Final User"
 ProjectManager as "Project Manager"
 Architect as "Architect"
